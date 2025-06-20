@@ -108,7 +108,7 @@
         "electron-updater": "^6.3.9",
         "moment": "^2.29.1",
         "nvexeca": "^6.0.1",
-        "semver": "^7.6.2"
+        "semver": "^7.7.2"
     },
     "config": {
         "commitizen": {
